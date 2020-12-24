@@ -24,3 +24,4 @@
     <script src="src/index.js"></script>
   </body>
 </html>
+<?php echo ""; ?>
