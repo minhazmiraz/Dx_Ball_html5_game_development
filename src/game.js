@@ -1,7 +1,7 @@
-import Paddle from "/src/paddle";
-import InputHandler from "/src/input";
-import Ball from "/src/ball";
-import { buildLevel, levels } from "/src/level";
+import Paddle from "./paddle.js";
+import InputHandler from "./input.js";
+import Ball from "./ball.js";
+import { buildLevel, levels } from "./level.js";
 
 export const GAMESTATE = {
   RUNNING: 0,
